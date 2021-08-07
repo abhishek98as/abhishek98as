@@ -1,4 +1,5 @@
-![Purple Orange Wicked Cute Online Event Business Halloween Banner](https://user-images.githubusercontent.com/49355119/128600038-9f48d442-bd62-45db-8a3c-c9fa0f4683e8.gif)
+![Purple Orange Wicked Cute Online Event Business Halloween Banner (1)](https://user-images.githubusercontent.com/49355119/128600257-fe0f1a9d-e9cd-4a7b-89c7-e2cfa244a027.gif)
+
 
 
 <h1 align="center">Hi 👋, I'm Abhishek Singh</h1>
