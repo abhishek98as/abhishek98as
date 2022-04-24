@@ -6,13 +6,13 @@
 
 - 🔭 I’m currently working on **Web developement and Cloud**
 
-- 🌱 I’m currently learning **Java script|Django|Figma|Material UI|CSS3|**
+- 🌱 I’m currently learning **Java |javascript|Django|Figma|Material UI|HTML|CSS|**
 
 - 💬 Ask me about **Technology**
 
 - 📫 How to reach me **abhishek98as@gmail.com**
 
-- ⚡ Fun fact **I edit you Photo for free ! Kudo's**
+- ⚡ Fun fact **! Kudo's**
 
 
 <h3 align="left">Languages and Tools:</h3>
