@@ -19,9 +19,8 @@
 <p align="left">
 <a href="https://twitter.com/ssingh1offiucial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhruv13723" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/abhishek-singh-as000/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruv ." height="30" width="40" /></a>
-<a href="https://instagram.com/dhruuv_6514" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhruuv_6514" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/dhruv13723" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dhruv13723" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/dhruv_1323" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dhruv_1323" height="30" width="40" /></a>
+<a href="https://instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhruuv_6514" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/abhishek98as" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dhruv13723" height="30" width="40" /></a>
 <a href="https://discord.gg/2274" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="2274" height="30" width="40" /></a>
 </p>
 
