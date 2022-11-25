@@ -22,5 +22,3 @@
 <p><a href="https://www.buymeacoffee.com/abhishek98as"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="abhishek98as" /></a></p><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishek98as&show_icons=true&locale=en&layout=compact" alt="abhishek98as" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishek98as&show_icons=true&locale=en" alt="abhishek98as" /></p>
