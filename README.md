@@ -89,10 +89,10 @@
 ### <img src="https://i.imgur.com/OTKgDSt.gif" alt="Binary Code Animation" width="25px"> Latest Code Commits
 
 <!-- BLOG-POST-LIST:START -->
-- [Implemented quantum encryption algorithm](https://github.com/abhishek98as)
-- [Optimized neural network for 500% performance boost](https://github.com/abhishek98as)
-- [Developed AI-powered code review bot](https://github.com/abhishek98as)
-- [Created holographic UI framework](https://github.com/abhishek98as)
+- [SOLVED LAT LONG PROBLEM](https://github.com/abhishek98as)
+- [Implemented Voice Match of two people in any language ](https://github.com/abhishek98as)
+- [Developed AI BOT for Whatsapp](https://github.com/abhishek98as)
+- [Implemeted screenshare exe](https://github.com/abhishek98as)
 <!-- BLOG-POST-LIST:END -->
 
 ---
