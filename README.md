@@ -1,4 +1,6 @@
-[![Techie Banner](https://i.imgur.com/w4ZKVsM.gif)](https://github.com/abhishek98as)
+<img src="https://github.com/Aakarsh-B/trying-repos/blob/master/Colorful%20Simple%20Science%20Class%20Education%20Presentation.png">
+<br/>
+<br/>
 
 <h1 align="center">
   <img src="https://i.imgur.com/3x9lGmT.gif" width="30px"> Hello, fellow code wizards! I'm Abhishek <img src="https://i.imgur.com/3x9lGmT.gif" width="30px">
